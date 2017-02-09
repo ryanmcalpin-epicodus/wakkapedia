@@ -2,8 +2,6 @@ body{
   background-color: lightgray;
 }
 
-#wp-navigation{
-}
 
 #content{
   background-color: white;
@@ -11,4 +9,10 @@ body{
 }
 
 #content .row {
+}
+#sidebar {
+}
+
+.right {
+  text-align: right;
 }
