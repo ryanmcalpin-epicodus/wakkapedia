@@ -11,8 +11,24 @@ body{
 #content .row {
 }
 #sidebar {
+  background-color: lightgray;
 }
 
 .right {
   text-align: right;
+}
+
+.green-style {
+  background-color: #ebf9ea;
+  padding-top: 10px;
+  border: 1px solid #bcffbc;
+}
+
+.blue-style {
+  background-color: #f2f3ff;
+  padding-top: 10px;
+}
+
+.logo {
+  max-width: 100px;
 }
